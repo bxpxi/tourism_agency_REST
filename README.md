@@ -1,0 +1,3 @@
+- CRUD operations for Flight Entity
+- server in Java + client in React
+- websockets
