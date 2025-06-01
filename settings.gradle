@@ -1,0 +1,5 @@
+rootProject.name = 'proiect_java_REST'
+include 'domain'
+include 'persistence'
+include 'restservices'
+
